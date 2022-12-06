@@ -6,7 +6,7 @@ terraform {
     }
   }
   cloud {
-    organization = "<オーガニゼーション名>"
+    organization = "nttdata-bizsys-ITsol3"
     hostname = "app.terraform.io"
 
     workspaces {
